@@ -3,8 +3,8 @@
 # duggan/homebrew-usagi tap.  Install:  brew tap duggan/usagi && brew install --cask usagi
 
 cask "usagi" do
-  version "0.1.3"
-  sha256 "cd77190c5d2567b7341fe685deaafe604ac28806e128320f081097732fe7d17c"
+  version "0.1.4"
+  sha256 "8df78a8412db302e259a764d3719f28aae6a1aa48fc71f8ca8cd309d1da545fb"
 
   url "https://github.com/duggan/usagi/releases/download/v#{version}/Usagi-#{version}.dmg"
   name "usagi"
