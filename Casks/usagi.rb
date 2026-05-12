@@ -1,3 +1,7 @@
+# Edit this cask in github.com/duggan/usagi (homebrew/usagi.rb); the release
+# workflow substitutes the version + sha256 and publishes it to the
+# duggan/homebrew-usagi tap.  Install:  brew tap duggan/usagi && brew install --cask usagi
+
 cask "usagi" do
   version "0.1.1"
   sha256 "a2b4d8061e678d2c74f27e6f8dd435cd65e37c731c76d3fa35ca7e7ba80d7b06"
